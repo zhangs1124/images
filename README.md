@@ -4,20 +4,39 @@
 
 ## 📁 目前的圖片
 
-### 1. Optimus Prime（柯博文）
+### 影片用圖片
+
+#### 1. Optimus Prime（柯博文）
 ![Optimus Prime](optimus_prime.png)
 - **檔案名稱**: `optimus_prime.png`
 - **用途**: 影片結尾圖片
 
-### 2. Truck Opening（大卡車開場）
+#### 2. Truck Opening（大卡車開場）
 ![Truck Opening](truck_opening.png)
 - **檔案名稱**: `truck_opening.png`
 - **用途**: 影片開場圖片
 
-### 3. Puppy Lakeside Walk（小狗湖邊散步）
+#### 3. Puppy Lakeside Walk（小狗湖邊散步）
 ![Puppy Lakeside Walk](puppy_lakeside_walk.png)
 - **檔案名稱**: `puppy_lakeside_walk.png`
 - **描述**: 一隻可愛的小狗在黃昏時分的湖邊散步
+
+### Git 教學圖片
+
+#### 4. Git Branch Diagram（Git 分支圖）
+![Git Branch Diagram](git_branch_diagram.png)
+- **檔案名稱**: `git_branch_diagram.png`
+- **描述**: Git 分支結構說明圖
+
+#### 5. Branch Relationship Diagram（分支關係圖）
+![Branch Relationship Diagram](branch_relationship_diagram.png)
+- **檔案名稱**: `branch_relationship_diagram.png`
+- **描述**: 分支之間的關係與操作說明
+
+#### 6. Daily Git Workflow（每日工作流程圖）
+![Daily Git Workflow](daily_git_workflow.png)
+- **檔案名稱**: `daily_git_workflow.png`
+- **描述**: 工程師的每日 Git 工作流程
 
 ## 📝 使用說明
 
@@ -37,6 +56,7 @@ https://raw.githubusercontent.com/zhangs1124/images/main/optimus_prime.png
 - **倉庫類型**: 公開倉庫
 - **主要分支**: `main`
 - **建立日期**: 2025-12-11
+- **圖片總數**: 6 張
 
 ## 📜 授權
 
@@ -45,5 +65,3 @@ https://raw.githubusercontent.com/zhangs1124/images/main/optimus_prime.png
 ---
 
 **最後更新**: 2025-12-11
-
-#測試資料 2025-12-11 08:43
