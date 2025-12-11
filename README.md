@@ -38,6 +38,16 @@
 - **檔案名稱**: `daily_git_workflow.png`
 - **描述**: 工程師的每日 Git 工作流程
 
+#### 7. Branch Push Strategy（分支推送策略圖）
+![Branch Push Strategy](branch_push_strategy.png)
+- **檔案名稱**: `branch_push_strategy.png`
+- **描述**: 分支推送策略決策流程圖
+
+#### 8. Dual Editor Workflow（雙編輯器工作流程圖）
+![Dual Editor Workflow](dual_editor_workflow.png)
+- **檔案名稱**: `dual_editor_workflow.png`
+- **描述**: 雙編輯器比對工作流程，用於處理混合改動
+
 ## 📝 使用說明
 
 所有圖片都可以直接透過 GitHub 的 raw URL 存取：
@@ -56,7 +66,7 @@ https://raw.githubusercontent.com/zhangs1124/images/main/optimus_prime.png
 - **倉庫類型**: 公開倉庫
 - **主要分支**: `main`
 - **建立日期**: 2025-12-11
-- **圖片總數**: 6 張
+- **圖片總數**: 8 張
 
 ## 📜 授權
 
