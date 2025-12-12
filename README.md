@@ -48,6 +48,15 @@
 - **檔案名稱**: `dual_editor_workflow.png`
 - **描述**: 雙編輯器比對工作流程，用於處理混合改動
 
+### 飲品圖片
+
+#### 9. Professional Coffee Beverage（專業咖啡飲品）
+![Professional Coffee Beverage](coffee_professional_beverage.png)
+- **檔案名稱**: `coffee_professional_beverage.png`
+- **描述**: 專業咖啡飲品攝影，適合印刷品使用
+- **生成方式**: 使用 Imagen 4 AI 模型生成
+- **用途**: 印刷品、菜單、商業用途
+
 ## 📝 使用說明
 
 所有圖片都可以直接透過 GitHub 的 raw URL 存取：
@@ -66,7 +75,7 @@ https://raw.githubusercontent.com/zhangs1124/images/main/optimus_prime.png
 - **倉庫類型**: 公開倉庫
 - **主要分支**: `main`
 - **建立日期**: 2025-12-11
-- **圖片總數**: 8 張
+- **圖片總數**: 9 張
 
 ## 📜 授權
 
@@ -74,4 +83,4 @@ https://raw.githubusercontent.com/zhangs1124/images/main/optimus_prime.png
 
 ---
 
-**最後更新**: 2025-12-11
+**最後更新**: 2025-12-12
